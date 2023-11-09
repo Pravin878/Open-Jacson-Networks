@@ -24,7 +24,7 @@ Visual components and Python
 
 
 ## Program:
-Developed by :Pravin kumar G
+Developed by :Pravin kumar G.
 reference number:212222230109.
 ```python
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
